@@ -22,6 +22,7 @@ Trying out Markdown elements
 --- horizontal rule, wtf is that?? I will google it --- 
 Oh there is a footnote [^1]
 [^1]: this should be a footnote. 
+
 term 
 :something about definition
 
