@@ -23,8 +23,8 @@ Trying out Markdown elements
 Oh there is a footnote [^1]
 [^1]: this should be a footnote. 
 
-term 
-:something about definition
+some random term 
+: something about definition
 
 oh there is also a ==highlight==
 
