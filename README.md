@@ -19,14 +19,12 @@ Trying out Markdown elements
 
 `this should be code, right?`
 
---- horizontal rule, wtf is that?? I will google it --- 
+
 Oh there is a footnote [^1]
 [^1]: this should be a footnote. 
 
-some random term 
-: something about definition
-
-oh there is also a ==highlight==
 
 subscript wth? H~2~O
-and a superscript X^2^
+
+superscript 
+X^2^
