@@ -28,4 +28,6 @@ subscript wth? H~2~O
 
 superscript 
 X^2^
-testing something
+testing something x2
+------------------------------
+something
