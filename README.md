@@ -35,3 +35,6 @@ something
 are you there?
 how do you feel
 - uze ga Munchester City
+- dobar je bio streaming wars
+- al ono malo je i sranje
+- 
