@@ -37,3 +37,6 @@ how do you feel
 - uze ga Munchester City
 - dobar je bio streaming wars
 - al ono malo je i sranje
+- idem da vozim kola u blokovima
+- nadam se da je ovo poslednji put u tom kraju
+- gubim sat vremena umesto 30-40 min
