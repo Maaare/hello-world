@@ -40,3 +40,4 @@ how do you feel
 - mora dosta da se radi
 - oraspolozi se
 - bice sve ok samo optimizma malo i raspolozenja
+- Prvi utisci: LAAG ispit ce biti bas zeznut, mora se fokusirati na 1h radnim danima i 4 sata vikendom
