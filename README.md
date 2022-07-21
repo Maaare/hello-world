@@ -43,3 +43,6 @@ how do you feel
 - Prvi utisci: LAAG ispit ce biti bas zeznut, mora se fokusirati na 1h radnim danima i 4 sata vikendom
 - Idem u kanc sutra - trebam da odradim DS LAAG po 1h i Python 2-3h
 - Idem kod kardiologa i pulmologa danas
+- Danas u crkvu
+- Zovi A1 zbog neta
+- napuni bateriju za Ivana
