@@ -46,3 +46,4 @@ how do you feel
 - Danas u crkvu
 - Zovi A1 zbog neta
 - napuni bateriju za Ivana
+- odradi python 1h makar + ako imas vremena 1h DS i 1h LAAG
