@@ -47,3 +47,6 @@ how do you feel
 - Zovi A1 zbog neta
 - napuni bateriju za Ivana
 - odradi python 1h makar + ako imas vremena 1h DS i 1h LAAG
+- idi do maxija
+- DS i LAAG sutra krecemo jako
+- Python tokom smene samo i skidaj jedno po jedno sa spiska
