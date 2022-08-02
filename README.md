@@ -51,3 +51,4 @@ how do you feel
 - DS i LAAG sutra krecemo jako
 - Python tokom smene samo i skidaj jedno po jedno sa spiska
 - dorucak
+- odradi ds i laag
