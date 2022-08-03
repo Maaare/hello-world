@@ -52,3 +52,4 @@ how do you feel
 - Python tokom smene samo i skidaj jedno po jedno sa spiska
 - dorucak
 - odradi ds i laag
+- neke stvari moraju da se promene
