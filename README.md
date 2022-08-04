@@ -53,3 +53,4 @@ how do you feel
 - dorucak
 - odradi ds i laag
 - neke stvari moraju da se promene
+- imas 1h fore nesto da odradis
