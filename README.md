@@ -54,3 +54,5 @@ how do you feel
 - odradi ds i laag
 - neke stvari moraju da se promene
 - imas 1h fore nesto da odradis
+
+- DS i LAAG -> udari malo jaci tempo sada za vikend -> probudi se ranije
