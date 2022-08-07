@@ -56,3 +56,4 @@ how do you feel
 - imas 1h fore nesto da odradis
 
 - DS i LAAG -> udari malo jaci tempo sada za vikend -> probudi se ranije
+- Ponedeljak ranije ustani -> dorucak + odradi 1h posla + odradi DS i LAAG
