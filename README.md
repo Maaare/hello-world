@@ -57,3 +57,4 @@ how do you feel
 
 - DS i LAAG -> udari malo jaci tempo sada za vikend -> probudi se ranije
 - Ponedeljak ranije ustani -> dorucak + odradi 1h posla + odradi DS i LAAG
+- prezivi nedelju pa kreni od vikenda da radis
