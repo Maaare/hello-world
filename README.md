@@ -59,3 +59,4 @@ how do you feel
 - Ponedeljak ranije ustani -> dorucak + odradi 1h posla + odradi DS i LAAG
 - prezivi nedelju pa kreni od vikenda da radis
 - Weekend - pokusavam da se saberem i oduzmem -> fokus na bitne stvari i sabiranje utisaka
+- odmori malo - pogledaj sta mozes
