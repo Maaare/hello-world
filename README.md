@@ -63,3 +63,5 @@ how do you feel
 - odvozi cas -> vrati se kuci i jedi -> odmori se do smene -> u smeni gledaj dal mozes da zapocnes DS i LAAG
 - odradi par stvari za smenu -> baci pogled na kraju na DS i LAAG ako stignes
 - tokom smene DS i LAAG ako stignes
+- idi kod Milete, ostani malo kod njega jer Alex ide na posao u 14h -> vrati se kuci i odradi DS i LAAG
+- a od sutra se krece bas jako DS i LAAG
