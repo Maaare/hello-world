@@ -66,3 +66,4 @@ how do you feel
 - idi kod Milete, ostani malo kod njega jer Alex ide na posao u 14h -> vrati se kuci i odradi DS i LAAG
 - a od sutra se krece bas jako DS i LAAG
 - tokom smene 2h izdvoji za DS i LAAG
+- ustani ranije sutra
