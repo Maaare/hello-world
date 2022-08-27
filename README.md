@@ -67,3 +67,4 @@ how do you feel
 - a od sutra se krece bas jako DS i LAAG
 - tokom smene 2h izdvoji za DS i LAAG
 - ustani ranije sutra
+- odradi neke stvari danas
