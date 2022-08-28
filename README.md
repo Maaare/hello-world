@@ -68,3 +68,4 @@ how do you feel
 - tokom smene 2h izdvoji za DS i LAAG
 - ustani ranije sutra
 - odradi neke stvari danas
+- sutra obaveze oko sahrane - odradi malo za fax
