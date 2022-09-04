@@ -69,3 +69,4 @@ how do you feel
 - ustani ranije sutra
 - odradi neke stvari danas
 - sutra obaveze oko sahrane - odradi malo za fax
+- kreni da skidas sa liste obaveza
